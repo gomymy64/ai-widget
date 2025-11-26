@@ -1,7 +1,0 @@
-{
-  "name": "AI Manager Dashboard",
-  "description": "A premium, dark-mode SaaS dashboard for configuring AI agents.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
